@@ -6,7 +6,7 @@ Residents of Madison and surrounding areas:<br>
 Associate Resident Members pay $448 per year, payable quarterly.<br><br>
 
 <div class="card">
-  <img src="images/Lamp-Sol.png" alt="Art Meta One Art Classes" style="width:100%">
+  <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
   <h2>Lamp Sol NFT </h2>
   <p class="title">Artist</p>
   <p>Ben Banker</p>
