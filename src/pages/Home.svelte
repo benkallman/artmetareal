@@ -9,5 +9,5 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
     <a href="https://twitter.com/willis_dontabo/status/1480946056527499264"><i class="fa fa-twitter"></i></a>   
     <a href="https://www.facebook.com/C.NJ.NCT/posts/4668122783305489"><i class="fa fa-facebook"></i></a> 
   </div>
-  <p><button onclick="document.location=''">Choose Course Now</button></p>
+  <p><button onclick="document.location='https://www.artmeta.one/Classes'">Choose Course Now</button></p>
 </div>	
