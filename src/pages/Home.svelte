@@ -4,11 +4,10 @@
   <h2>Classes located in Madison Wisconsin, with classes also offered online.</h2>
   <p class="title">Art Meta One serves individuals who want to advance their artistic talents. Our programs are geared to help artists further their skills. </p>
   <p>Membership Dues:<br>
-Residents of Madison and surrounding areas:<br>
-Associate Resident Members pay $448 per year, payable quarterly.</p>
+$896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
   <div style="margin: 24px 0;"> 
     <a href="https://twitter.com/willis_dontabo/status/1480946056527499264"><i class="fa fa-twitter"></i></a>   
     <a href="https://www.facebook.com/C.NJ.NCT/posts/4668122783305489"><i class="fa fa-facebook"></i></a> 
   </div>
-  <p><button onclick="document.location='https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/74910965659129920827967912483173887147949622782888675597174626359838240669697'">Buy Now</button></p>
+  <p><button onclick="document.location=''">Choose Course Now</button></p>
 </div>	
