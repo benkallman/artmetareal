@@ -1,8 +1,8 @@
 <br>
 <div class="card">
   <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
-  <h2>Classes located in Madison Wisconsin, with classes also offered online.</h2>
-  <p class="title">Art Meta One serves individuals who want to advance their artistic talents. Our programs are geared to help artists further their skills. </p>
+  <h2>Class located in Madison Wisconsin, with classes also offered online.</h2>
+  <p class="title">Drawing and Painting. Guided class either structured by students interest or standard class. </p>
   <p>Membership Dues:<br>
 $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
   <div style="margin: 24px 0;"> 
