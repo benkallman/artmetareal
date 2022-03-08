@@ -38,7 +38,7 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     
-  ">Pay now</a>
+  ">Pay Now One Year</a>
   </div>
 </div>
 </div>
@@ -104,7 +104,7 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
     
-  ">Pay now</a>
+  ">Pay Now Weekly</a>
   </div>
 </div>
 </div>
