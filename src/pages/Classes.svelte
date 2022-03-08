@@ -1,4 +1,4 @@
-<h1> Classes <h>
+
 <div class="card">
   <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
   <h2>Classes located in Madison Wisconsin, with classes also offered online.</h2>
