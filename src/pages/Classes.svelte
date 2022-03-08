@@ -90,21 +90,30 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;
-  font-family: SQ Market, Helvetica, Arial, sans-serif;
+  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
-  <a target="_blank" data-url="https://square.link/u/qUFoWP8M?src=embd" href="https://square.link/u/qUFoWP8M?src=embed" style="
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">One Time Private Hour Long Art Lesson</p>
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+  ">$30.00</p>
+  <a target="_blank" data-url="https://square.link/u/Hupb3m2W?src=embd" href="https://square.link/u/Hupb3m2W?src=embed" style="
     display: inline-block;
     font-size: 18px;
     line-height: 48px;
     height: 48px;
     color: #ffffff;
     min-width: 212px;
-    background-color: #000000;
+    background-color: #006aff;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    
-  ">Pay Now Weekly</a>
+    border-radius: 0px;
+  ">Pay now</a>
   </div>
 </div>
 </div>
