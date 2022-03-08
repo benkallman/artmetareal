@@ -12,7 +12,6 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
 
 </div>
 <br>
-<center>
 <div>
   <div><div style="
   overflow: auto;
