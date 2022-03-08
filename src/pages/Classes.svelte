@@ -9,9 +9,10 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
     <a href="https://twitter.com/willis_dontabo/status/1480946056527499264"><i class="fa fa-twitter"></i></a>   
     <a href="https://www.facebook.com/C.NJ.NCT/posts/4668122783305489"><i class="fa fa-facebook"></i></a> 
   </div>
-  <p>
-  
-    <div>
+
+</div>
+<br>
+<div>
   <div><div style="
   overflow: auto;
   display: flex;
@@ -76,7 +77,4 @@ $896 per year, payable quarterly. Or pay as you go $25 per Class.</p>
       showCheckoutWindow(e);
     });
   </script>
-</div>
-  
-  </p>
 </div>
