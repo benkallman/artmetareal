@@ -6,7 +6,7 @@
   <p class="title">Drawing and Painting. <br>Brush, pen, or digital. Guided classes either structured by students 
     interest or standard class to find the students interest. </p>
   <p>Instructor: Benjamin Kallman<br>
-Ben is an artist based in the midwest with a Bachelor’s degree in Fine Arts from the School of
+Ben is an artist based in the midwest with a Bachelor’s degree in Fine Arts from The School of
 the Art Institute of Chicago. He has been painting for 25 years.</p>
   <div style="margin: 24px 0;"> 
     <a href="https://twitter.com/ArtMeta1"><i class="fa fa-twitter"></i></a>   
