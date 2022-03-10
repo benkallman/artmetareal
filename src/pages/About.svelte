@@ -10,3 +10,4 @@ the Art Institute of Chicago. He has been painting for 25 years.</p>
     <a href="https://twitter.com/ArtMeta1"><i class="fa fa-twitter"></i></a>   
     <a href="https://www.facebook.com/artmeta.one/"><i class="fa fa-facebook"></i></a> 
   </div>
+</div>
