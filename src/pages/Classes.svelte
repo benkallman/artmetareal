@@ -1,8 +1,9 @@
 <br>
 <div class="card">
   <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
-  <h2>Class located in Madison Wisconsin, with classes also offered online.</h2>
-  <p class="title">Drawing and Painting. <br>Guided class either structured by students interest or standard class. </p>
+  <h2>Class located in Madison Wisconsin, with classes also offered online. Taught by Benjain Kallman.</h2>
+  <p class="title">Drawing and Painting. <br>Guided classes either structured by students interest or standard class to 
+    find the students interest. </p>
   <p>Membership Dues:<br>
 $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as you go $30 per Class.</p>
   <div style="margin: 24px 0;"> 
