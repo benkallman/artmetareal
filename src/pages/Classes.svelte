@@ -181,17 +181,18 @@ $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as
   border-radius: 10px;
   font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
   ">
+  <img src="https://items-images-production.s3.us-west-2.amazonaws.com/files/6cc1b30d9b10d9a3bcfe4f00098c5ec2771259fd/original.png" alt="One Time Private Hour Long Art Lesson $30" onerror="this.style.display='none'" style="width: 100%;">
   <div style="padding: 20px;">
   <p style="
     font-size: 18px;
     line-height: 20px;
-  ">One Time Private Hour Long Art Lesson</p>
+  ">One Time Private Hour Long Art Lesson $30</p>
   <p style="
     font-size: 18px;
     line-height: 20px;
     font-weight: 600;
   ">$30.00</p>
-  <a target="_blank" data-url="https://square.link/u/Hupb3m2W?src=embd" href="https://square.link/u/Hupb3m2W?src=embed" style="
+  <a target="_blank" data-url="https://square.link/u/QCVj4CiM?src=embd" href="https://square.link/u/QCVj4CiM?src=embed" style="
     display: inline-block;
     font-size: 18px;
     line-height: 48px;
@@ -240,5 +241,5 @@ $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as
     document.getElementById('embedded-checkout-modal-checkout-button').addEventListener('click', function (e) {
       showCheckoutWindow(e);
     });
-  </script>
+  </script></center>
 </div>
