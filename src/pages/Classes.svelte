@@ -26,20 +26,29 @@ $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: -2px 10px 5px rgba(0, 0, 0, 0);
   border-radius: 10px;
-  font-family: SQ Market, Helvetica, Arial, sans-serif;
+  font-family: SQ Market, SQ Market, Helvetica, Arial, sans-serif;
   ">
   <div style="padding: 20px;">
-  <a target="_blank" data-url="https://square.link/u/YgbNBYll?src=embd" href="https://square.link/u/YgbNBYll?src=embed" style="
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+  ">Private Year Long Painting and Drawing</p>
+  <p style="
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 600;
+  ">$224.00</p>
+  <a target="_blank" data-url="https://checkout.square.site/merchant/MLF2G673GQ91N/checkout/ZMKRLK4HVVIJSFYF7BAIGDNM?src=embd" href="https://checkout.square.site/merchant/MLF2G673GQ91N/checkout/ZMKRLK4HVVIJSFYF7BAIGDNM?src=embed" style="
     display: inline-block;
     font-size: 18px;
     line-height: 48px;
     height: 48px;
     color: #ffffff;
     min-width: 212px;
-    background-color: #000000;
+    background-color: #006aff;
     text-align: center;
     box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-    
+    border-radius: 0px;
   ">Pay now</a>
   </div>
 </div>
