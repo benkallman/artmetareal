@@ -32,7 +32,7 @@ $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as
   <p style="
     font-size: 18px;
     line-height: 20px;
-  ">Private Year Long Painting and Drawing</p>
+  ">Private Year Long Painting and Drawing $896 paid quarterly for 4 cycles of $224</p>
   <p style="
     font-size: 18px;
     line-height: 20px;
@@ -89,7 +89,6 @@ $896 per year, payable quarterly. Recurring weekly hourly courses $20. Or pay as
     });
   </script></center>
 </div>
-
 
 <div><center>
   <div><div style="
