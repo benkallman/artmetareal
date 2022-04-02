@@ -1,6 +1,6 @@
 <h1>Art Meta One Art Classes</h1> <br>
 <div class="card">
-  <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
+  <img src="images/ninja.jpg" alt="Art Meta One Art Classes" style="width:100%">
   <h2>Classes located in Madison Wisconsin, with classes also offered online.</h2>
   <p class="title">Art Meta One serves individuals who want to advance their artistic talents. Our programs are geared to help artists further their skills. </p>
   <p>Membership Dues:<br>
