@@ -1,6 +1,6 @@
 <br>
 <div class="card">
-  <img src="images/benbanker.jpg" alt="Art Meta One Art Classes" style="width:100%">
+  <img src="images/dragon.jpg" alt="Art Meta One Art Classes" style="width:100%">
   <h2>Class located in Madison Wisconsin, with classes also offered online. Taught by Benjamin Kallman.</h2>
   <p class="title">Drawing and Painting. <br>Guided classes either structured by students interest or standard class to 
     find the students interest. </p>
