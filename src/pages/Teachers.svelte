@@ -25,23 +25,7 @@ img {
 /* Add a pointer when hovering over the thumbnail images */
 .cursor {
   cursor: pointer;
-}
 
-/* Next & previous buttons */
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 40%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
 }
 
 /* Position the "next button" to the right */
