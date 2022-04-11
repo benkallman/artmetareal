@@ -1,3 +1,5 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: Arial;
@@ -25,7 +27,23 @@ img {
 /* Add a pointer when hovering over the thumbnail images */
 .cursor {
   cursor: pointer;
+}
 
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 /* Position the "next button" to the right */
@@ -86,32 +104,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="images/benbenker.jpg" style="width:100%">
+    <img src="img_woods_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="images/close.jpg" style="width:100%">
+    <img src="img_5terre_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="images/closelamp.jpg" style="width:100%">
+    <img src="img_mountains_wide.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="images/dadart.jpg" style="width:100%">
+    <img src="img_lights_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="images/dragon.jpg" style="width:100%">
+    <img src="img_nature_wide.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="images/lamp.jpg" style="width:100%">
+    <img src="img_snow_wide.jpg" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -120,35 +138,28 @@ img {
   <div class="caption-container">
     <p id="caption"></p>
   </div>
-  
+
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/dadart.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
-     <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/lamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
     </div>
-        <div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/ninja.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
-<div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/closelamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
-<div class="row">
     <div class="column">
-      <img class="demo cursor" src="images/dragon.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
-    </div>
-<div class="row">
+      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>    
     <div class="column">
-      <img class="demo cursor" src="images/benbenker.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
-
   </div>
 </div>
-
 
 <script>
 let slideIndex = 1;
@@ -182,4 +193,4 @@ function showSlides(n) {
 </script>
     
 </body>
-
+</html>
