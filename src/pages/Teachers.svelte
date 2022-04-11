@@ -102,32 +102,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="benbenker.jpg" style="width:100%">
+    <img src="images/benbenker.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="close.jpg" style="width:100%">
+    <img src="images/close.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="closelamp.jpg" style="width:100%">
+    <img src="images/closelamp.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="dadart.jpg" style="width:100%">
+    <img src="images/dadart.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="dragon.jpg" style="width:100%">
+    <img src="images/dragon.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="lamp.jpg" style="width:100%">
+    <img src="images/lamp.jpg" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -139,15 +139,15 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="dadart.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="images/dadart.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
     </div>
      <div class="row">
     <div class="column">
-      <img class="demo cursor" src="lamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="images/lamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
     </div>
         <div class="row">
     <div class="column">
-      <img class="demo cursor" src="ninja.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+      <img class="demo cursor" src="images/ninja.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
     </div>
   
   </div>
