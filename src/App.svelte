@@ -4,6 +4,7 @@
   import Home from './pages/Home.svelte';
   import About from './pages/About.svelte';
   import Classes from './pages/Classes.svelte';
+  import Teachers from './pages/Teachers.svelte';
 
   // set default component
   let current = Home;
@@ -13,6 +14,7 @@
   page('/', () => (current = Home));
   page('/about', () => (current = About));
   page('/Classes', () => (current = Classes));
+  page('/Teachers', () => (current = Teachers));
   // activate router
   page.start();
 </script>
