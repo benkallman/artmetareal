@@ -50,6 +50,7 @@
     <a href="/">Home</a>
     <a href="/about">About</a>
     <a href="/Classes">Classes</a>
+    <a href="/Teachers">Teachers</a>
   </nav>
 
   <svelte:component this={current} />
