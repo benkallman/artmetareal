@@ -137,21 +137,6 @@ img {
     <p id="caption"></p>
   </div>
 
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="images/dadart.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
-    </div>
-     <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="images/lamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
-    </div>
-        <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="images/ninja.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
-    </div>
-  
-  </div>
-</div>
 
 <script>
 let slideIndex = 1;
