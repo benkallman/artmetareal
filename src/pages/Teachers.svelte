@@ -35,7 +35,7 @@ img {
   cursor: pointer;
   position: absolute;
   top: 40%;
-  width: 1000px;
+  width: auto;
   padding: 16px;
   margin-top: -50px;
   color: white;
