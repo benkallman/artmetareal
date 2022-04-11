@@ -149,6 +149,18 @@ img {
     <div class="column">
       <img class="demo cursor" src="images/ninja.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
     </div>
+<div class="row">
+    <div class="column">
+      <img class="demo cursor" src="images/closelamp.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+    </div>
+<div class="row">
+    <div class="column">
+      <img class="demo cursor" src="images/dragon.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+    </div>
+<div class="row">
+    <div class="column">
+      <img class="demo cursor" src="images/benbenker.jpg" style="width:100%" onclick="currentSlide(1)" alt="Art">
+    </div>
 
   </div>
 </div>
