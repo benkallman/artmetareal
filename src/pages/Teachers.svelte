@@ -4,37 +4,37 @@
 
 <div class="container">
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/benbenker.jpg" style="width:50%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/close.jpg" style="width:50%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/closelamp.jpg" style="width:50%">
   </div>
     
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/dadart.jpg" style="width:50%">
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/dragon.jpg" style="width:50%">
   </div>
     
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/lamp.jpg" style="width:50%">
   </div>
   
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext"></div>
     <img src="images/ninja.jpg" style="width:50%">
   </div>
 
