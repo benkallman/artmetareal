@@ -106,7 +106,7 @@ img {
   cursor: pointer;
   position: absolute;
   top: 40%;
-  width: auto;
+  width: 10000000px;
   padding: 16px;
   margin-top: -50px;
   color: white;
