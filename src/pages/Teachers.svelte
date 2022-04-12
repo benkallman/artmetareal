@@ -71,7 +71,7 @@
   </div>
 </div>
 
-
+<style>
 body {
   font-family: Arial;
   margin: 0;
@@ -168,6 +168,5 @@ img {
   opacity: 1;
 }
 </style>
-<body>
 
 
