@@ -106,7 +106,7 @@ img {
   cursor: pointer;
   position: absolute;
   top: 40%;
-  width: 10000000px;
+  width: 10000px;
   padding: 16px;
   margin-top: -50px;
   color: white;
@@ -121,12 +121,6 @@ img {
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Number text (1/3 etc) */
