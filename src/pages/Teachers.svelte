@@ -71,3 +71,13 @@
   </div>
 </div>
 
+[data-component="slideshow"] .slide {
+	display: none;
+  text-align: center;
+}
+
+[data-component="slideshow"] .slide.active {
+	display: block;
+}
+
+
