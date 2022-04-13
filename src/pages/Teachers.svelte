@@ -1,7 +1,7 @@
 <head>
 <link rel="stylesheet" href='./style.css">
 <script src="https://use.fontawesome.com/09f10751ad.js"></script>
-                             </head>
+</head>
                              
 <body>
 <div class="carousel-container">
@@ -20,7 +20,7 @@
         </div>
                              
        <button id>prevBtn</button>
-      <buttonid>nextBtn</button>
+      <button id>nextBtn</button>
                              
                              
                              
