@@ -1,6 +1,7 @@
 <head>
 <link rel="stylesheet" href='./style.css">
 <script src="https://use.fontawesome.com/09f10751ad.js"></script>
+<script src="app.js"></script>
 </head>
                              
 <body>
@@ -24,5 +25,4 @@
                              
                              
                              
-      <script src="app.js"></script>
   </body>                             
