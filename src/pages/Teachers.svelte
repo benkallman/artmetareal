@@ -1,15 +1,16 @@
 <head>
 <link rel="stylesheet" href='./style.css">
 <script src="https://use.fontawesome.com/09f10751ad.js"></script>
-<script src="app.js"></script>
 </head>
                              
 <body>
 <div class="carousel-container">
+                             
+         
           <i class="fa fa-arrow-left" aria-hidden="true"></i>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
 
-          <div class="carousel-slide">
+         <div class="carousel-slide">
              <img src="images/lamp.jpg" id="lastClone alt=""> 
              <img src="images/dragon.jpg" alt="">                
              <img src="images/dadart(1).jpg" alt="">                     
@@ -20,9 +21,8 @@
            </div>
         </div>
                              
-       <button id>prevBtn</button>
-      <button id>nextBtn</button>
+   <button id="prevBtn">Prev</button>
+   <button id="nextBtn">Next</button>
                              
-                             
-                             
+      <script src="app.js"></script>                       
   </body>                             
