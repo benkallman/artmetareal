@@ -1,158 +1,28 @@
-<link rel="stylesheet" href="style.css" />
+<head>
+<link rel="stylesheet" href='./style.css">
+<script src="https://use.fontawesome.com/09f10751ad.js"></script>
+                             </head>
+                             
+<body>
+<div class="carousel-container">
+          <i class="fa fa-arrow-left" aria-hidden="true"></i>
+          <i class="fa fa-arrow-right" aria-hidden="true"></i>
 
-<h2 style="text-align:center">Slideshow Gallery</h2>
-
-<div class="container">
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/benbenker.jpg" style="width:50%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/close.jpg" style="width:50%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/closelamp.jpg" style="width:50%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/dadart.jpg" style="width:50%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/dragon.jpg" style="width:50%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/lamp.jpg" style="width:50%">
-  </div>
-  
-  <div class="mySlides">
-    <div class="numbertext"></div>
-    <img src="images/ninja.jpg" style="width:50%">
-  </div>
-
-    
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
-
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
-
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="images/benbenker.jpg" style="width:25%" onclick="currentSlide(1)" alt="benbenker">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/close.jpg" style="width: 25%" onclick="currentSlide(2)" alt="close">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/closelamp.jpg" style="width:25%" onclick="currentSlide(3)" alt="closelamp">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/dadart.jpg" style="width:25%" onclick="currentSlide(4)" alt="dadart">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/dragon.jpg" style="width:25%" onclick="currentSlide(5)" alt="dragon">
-    </div>    
-    <div class="column">
-      <img class="demo cursor" src="images/lamp.jpg" style="width:25%" onclick="currentSlide(6)" alt="lamp">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="images/ninja.jpg" style="width:25%" onclick="currentSlide(6)" alt="ninja">
-    </div>
-  </div>
-</div>
-
-<style>
-body {
-  font-family: Arial;
-  margin: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-img {
-  vertical-align: middle;
-}
-
-/* Position the image container (needed to position the left and right arrows) */
-.container {
-  position: relative;
-}
-
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
-
-/* Add a pointer when hovering over the thumbnail images */
-.cursor {
-  cursor: pointer;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 40%;
-  width: 1500px;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Six columns side by side */
-.column {
-  float: left;
-  width: 16.66%;
-}
-
-/* Add a transparency effect for thumnbail images */
-.demo {
-  opacity: 0.6;
-}
-
-.active,
-.demo:hover {
-  opacity: 1;
-}
-</style>
-
-
+          <div class="carousel-slide">
+             <img src="./images/lamp.jpeg" id="lastClone alt=""> 
+             <img src="./images/dragon.jpeg" alt="">                
+             <img src="./images/dadart(1).jpeg" alt="">                     
+             <img src="./images/ninja.jpeg" alt="">                      
+             <img src="./images/closelamp.jpeg" alt="">  
+             <img src="./images/lamp.jpeg" alt="">  
+             <img src="./images/dragon.jpeg" id="fistClone alt="">                  
+           </div>
+        </div>
+                             
+       <button id>prevBtn</button>
+      <buttonid>nextBtn</button>
+                             
+                             
+                             
+      <script src="app.js"></script>
+  </body>                             
