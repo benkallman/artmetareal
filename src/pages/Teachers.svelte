@@ -10,13 +10,13 @@
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
 
           <div class="carousel-slide">
-             <img src="./images/lamp.jpeg" id="lastClone alt=""> 
-             <img src="./images/dragon.jpeg" alt="">                
-             <img src="./images/dadart(1).jpeg" alt="">                     
-             <img src="./images/ninja.jpeg" alt="">                      
-             <img src="./images/closelamp.jpeg" alt="">  
-             <img src="./images/lamp.jpeg" alt="">  
-             <img src="./images/dragon.jpeg" id="fistClone alt="">                  
+             <img src="./images/lamp.jpg" id="lastClone alt=""> 
+             <img src="./images/dragon.jpg" alt="">                
+             <img src="./images/dadart(1).jpg" alt="">                     
+             <img src="./images/ninja.jpg" alt="">                      
+             <img src="./images/closelamp.jpg" alt="">  
+             <img src="./images/lamp.jpg" alt="">  
+             <img src="./images/dragon.jpg" id="fistClone alt="">                  
            </div>
         </div>
                              
