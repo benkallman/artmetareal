@@ -40,8 +40,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="images/dadart(1).jpg">
-    <img src="images/dadart(1).jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="images/dadart.jpg">
+    <img src="images/dadart.jpg" alt="Northern Lights" width="600" height="400">
   </a>
   <div class="desc">Artwork made by Ben Kallman</div>
 </div>
@@ -52,6 +52,28 @@ div.desc {
   </a>
   <div class="desc">Artwork made by Ben Kallman</div>
 </div>
+  
+  <div class="gallery">
+  <a target="_blank" href="images/benbenker.jpg">
+    <img src="images/benbenker.jpg" alt="Lamp" width="600" height="400">
+  </a>
+  <div class="desc">Artwork made by Ben Kallman</div>
+</div>
 
+  <div class="gallery">
+  <a target="_blank" href="images/close.jpg">
+    <img src="images/close.jpg" alt="Lamp" width="600" height="400">
+  </a>
+  <div class="desc">Artwork made by Ben Kallman</div>
+</div>
+  
+  <div class="gallery">
+  <a target="_blank" href="images/closelamp.jpg">
+    <img src="images/closelamp.jpg" alt="Lamp" width="600" height="400">
+  </a>
+  <div class="desc">Artwork made by Ben Kallman</div>
+</div>
+  
+  
 </body>
 </html>                     
