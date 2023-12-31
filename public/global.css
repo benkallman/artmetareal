@@ -7,18 +7,19 @@ html, body {
 body {
 	color: #333;
 	margin: 0;
-	padding: 8px;
+	padding: 2px;
 	box-sizing: border-box;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	font-family: 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
 }
 
 a {
 	color: rgb(0,100,200);
 	text-decoration: none;
+	transition: all 0.2s ease-in-out;
 }
 
 a:hover {
-	text-decoration: underline;
+	color: green; /* change the color on hover */
 }
 
 a:visited {
@@ -32,7 +33,7 @@ label {
 input, button, select, textarea {
 	font-family: inherit;
 	font-size: inherit;
-	-webkit-padding: 0.4em 0;
+	padding: 0.4em 0;
 	padding: 0.4em;
 	margin: 0 0 0.5em 0;
 	box-sizing: border-box;
@@ -60,4 +61,391 @@ button:not(:disabled):active {
 
 button:focus {
 	border-color: #666;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.gallery:active {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+
+	main {
+		text-align: left;
+		padding: 0.5em;
+		max-width: 500px;
+		margin: 0 auto;
+		margin-right: 32px;
+                box-sizing: border-box;
+	}
+	h1 {
+		color: #6B8E23;
+		text-transform: uppercase;
+		font-size: 3em;
+		font-weight: 100;
+	}
+	@media (min-width: 640px) {
+		main {
+		max-width: none;
+		}
+	}
+
+nft-card {
+  position: relative;
+  z-index: 0;
+}
+
+.modal {
+  background-color: black;
+  width: 100%;
+  max-height: calc(100vh - 40px);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+
+.modal video {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  max-height: calc(100vh - 40px);
+  position: relative;
+  z-index: 9999;
+}
+
+.youtube-button {
+  background: transparent;
+  border: none;
+  position: relative;
+  z-index: 2;
+}
+
+.youtube-button img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar {
+  margin-bottom: 20px;
+  z-index: 3;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar button {
+  padding: 10px;
+}
+
+.sidebar .description {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.dark-mode .sidebar a,
+.dark-mode .sidebar button,
+.dark-mode .sidebar .description {
+  color: white;
+}
+
+.sidebar .description {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: -100px; /* adjust this value as per your preference */
+  transform: translateY(-50%);
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black !important; /* change the font color to black */
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  font-size: 12px;
+}
+
+.dark .sidebar {
+  background-color: #333333;
+  color: #fff;
+}
+
+.dark-mode a {
+  color: #fff;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 62px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.sidebar a {
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+ 
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 37px;
+  background-color: rgba(51, 51, 51, 0.8); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 9px;
+}
+
+footer a {
+  margin: 0 10px;
+  font-size: 9px;
+}
+
+footer img {
+  filter: invert(1) brightness(150%); /* Invert the colors of the social media icons */
+  margin: 0 10px;
+}
+
+footer a,
+footer a:visited {
+  color: #fff; /* Set the color of the links to white */
+  text-decoration: none;
+}
+
+.dark footer {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+body {
+  position: relative;
+  overflow-x: hidden;
+}
+
+.container {
+  padding-right: 37px;
+  box-sizing: border-box;
+}
+
+.gallery:before {
+  content: "Click the image for more information";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-60%, -40%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.gallery:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+
+  body {
+    padding: 2px;
+    background-color: white;
+    color: black;
+    font-size: 19px;
+  }
+
+  .dark-mode {
+    background-color: #181818;
+    color: white;
+  }
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 49px;
+    height: 22px;
+
+  }
+
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+
+  input:checked + .slider {
+    background-color: #333333;
+  }
+
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 783px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+
+
+.header-container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: start; /* Align items to the start of the container */
+    min-height: 35px; /* Or adjust to match the height of the switch for a thinner header */
+}
+
+.dark-mode-container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin-right: 10px; /* Space between switch and the scrolling text */
+}
+
+.dark-mode-toggle {
+    margin-right: 7px; /* Adjust space between the switch and the label */
+}
+
+.scrolling-text-container {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+marquee {
+    white-space: nowrap;
+}
+
+/* Additional reset styles to prevent unexpected breaks or spacing */
+label, span, marquee {
+    margin: 0;
+    padding: 0;
+    line-height: 1; /* Adjust line-height to ensure it is no larger than necessary */
+    white-space: nowrap; /* Prevent wrapping */
+}
+
+.dark-mode .scrolling-text-container marquee {
+  color: #fff;
+}
+
+
+
+@keyframes scrollText {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.scrolling-text {
+  display: inline-block;
+  animation: scrollText 10s linear infinite; /* Adjust the timing as needed */
+}
+
+.scrolling-text-container {
+  overflow: hidden;
+  white-space: nowrap;
 }
