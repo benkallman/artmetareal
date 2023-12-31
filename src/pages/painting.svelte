@@ -1,5 +1,4 @@
-<main>  
-<!-- Inside your main page -->	
+<main>
 <div class="gallery">
   <a href="MontanaPicasso" data-lightbox="gallery" data-title="Artwork made by Ben Banker" data-block-download>
     <img src="images/thumb/montana-picasso2-thumb.webp" alt="In this exquisite piece by Ben Banker, the boundaries between art and reality blur, inviting us to explore the depths of our imagination. Available now, inquire for purchase.">
@@ -59,16 +58,6 @@
   <a href="Lamp" data-lightbox="gallery" data-title="Artwork made by Ben Banker">
     <img src="images/thumb/thumb-BENBANKER_lamp.webp" alt="Indulge in the captivating beauty of Ben Banker's gouache painting, showcased at a prestigious gallery. Own this mesmerizing masterpiece today and add it to your collection!" data-block-download>
   </a>
-</div>
-  <br>
-<h2><a href="/painting">Painting</a></h2>
-<div>
-  <h1>0x888 Digital Salon</h1>
-  <h2>Ben Banker Gouache</h2>
-  <p>Within the curated confines of the 0x888 Art Agency, a concourse brimming with digital connoisseurs and analogue creations unfolds. Here, the fusion of traditional artistry and digital innovation commands attention.</p>
-  <p>At the nexus of this digital assemblage, Ben Banker stands as a vanguard. His oeuvre, a tapestry of the contemporary zeitgeist, parallels the venerable evolution of gouache painting, itself a medium with a storied genesis. From its origins, utilizing binders like honey or tragacanth gum seen in Ancient Egyptian artistry, to its modern incarnation encased in tubes, gouache has undergone a transformation echoed in Ben's work.</p>
-  <p>Just as gouache has historically enhanced pastel paintings with its distinct texture and opacity, Ben Banker infuses his digital pastels with meticulous detail, merging venerable methods with the digital medium's modernity. 0x888 serves as a digital atelier, a showcase where Ben's art transcends the binary and resonates with tactile sensibility.</p>
-  <p>In this contemporary digital enclave, Ben Banker distills the essence of the digital medium into his art, crafting a narrative that captures the pulse of our era. His creative journey, informed by the transformational arc of gouache, symbolizes the perpetual metamorphosis of art. Within the boundless realms of 0x888, Banker's work delineates our collective narrative, tracing the contours of our digital epoch.</p>
 </div>
 </main>
 <style>
